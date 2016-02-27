@@ -37,6 +37,14 @@ And we browse in `http://localhost:4000` after
 
 > jekyll serve
 
-<!-- break -->
+
 
 After my finsh our code, we can put it on GitHub.
+
+We can use ssh so we don't need to enter username and password every time we exec 
+git command.
+we can do like below:
+
+> git remote set-url orgin git+ssh://git@github.com/programmersmartlee/programmersmartlee.github.io
+
+<!-- break -->
