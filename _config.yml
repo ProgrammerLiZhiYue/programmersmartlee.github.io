@@ -8,11 +8,10 @@
 # Site settings
 title: Li Zhi Yue Blogs
 email: your-email@domain.com
-description: > # My Blogs.
+description: "/blogs".
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://programmersmartlee.github.io/" # the base hostname & protocol for your site
+
 
 # Build settings
 markdown: kramdown
